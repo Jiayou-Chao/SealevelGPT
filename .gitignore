@@ -1,0 +1,22 @@
+# User defined files
+.env
+.history/
+data/
+*.pptx
+*.docx
+temp.*
+debug.R
+.vscode/
+*.html
+*.pdf
+results/
+my*
+
+*.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+*.code-workspace
+.Rproj.user
+__pycache__/*
